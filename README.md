@@ -2,10 +2,10 @@
 This is a repo of small skywater130 circuits, and gate designs I have created myself.
 
 Table of Contents:  
-   -Inverter  
+   1.Inverter  
       -Inv.mag  
       -INV.spice  
-   -Oscillator  
+   2.Oscillator  
       -OSC.cmd  
       -OSC_extracted.sp  
       -OSC_ideal.sp  
@@ -14,7 +14,7 @@ Table of Contents:
       -OSC.psc  
       -OSC.spice  
       -sky130A_setup.tcl  
-   -SRAM  
+   3.SRAM  
       -array.mag  
       -array.spc  
       -array.spice  
