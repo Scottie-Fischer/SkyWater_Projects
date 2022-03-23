@@ -14,19 +14,19 @@ Table of Contents:
       -OSC.psc
       -OSC.spice
       -sky130A_setup.tcl
-   -SRAM
-      -array.mag
-      -array.spc
-      -array.spice
-      -array.tcl
-      -cell_1rw.mag
-      -cell_1rw.sp
-      -cell_1rw.spice
-      -cell_1rw.tcl
-      -ntap_1rw.mag
-      -ptap_1rw.mag
-      -tran.sp
-      -sky130A_setup.tcl
+   -SRAM  
+      -array.mag  
+      -array.spc  
+      -array.spice  
+      -array.tcl  
+      -cell_1rw.mag  
+      -cell_1rw.sp  
+      -cell_1rw.spice  
+      -cell_1rw.tcl  
+      -ntap_1rw.mag  
+      -ptap_1rw.mag  
+      -tran.sp  
+      -sky130A_setup.tcl  
 
 Descriptions:
    -Inverter:
