@@ -1,0 +1,23 @@
+magic
+tech sky130A
+timestamp 1647387660
+<< nwell >>
+rect 308 171 392 332
+<< pwell >>
+rect 308 0 392 171
+<< nsubdiff >>
+rect 336 245 357 284
+rect 336 220 338 245
+rect 355 220 357 245
+rect 336 208 357 220
+<< nsubdiffcont >>
+rect 338 220 355 245
+<< poly >>
+rect 308 46 392 61
+<< locali >>
+rect 308 311 392 332
+rect 338 245 355 311
+rect 338 208 355 220
+<< metal2 >>
+rect 308 61 392 75
+<< end >>
